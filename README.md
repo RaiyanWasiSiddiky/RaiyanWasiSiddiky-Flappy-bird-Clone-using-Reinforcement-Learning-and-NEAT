@@ -1,0 +1,2 @@
+# RaiyanWasiSiddiky-Flappy-bird-Clone-using-Reinforcement-Learning-and-NEAT
+Complete Credit to the "Tech with Tim" youtube channel from which this is mostly done: https://www.youtube.com/watch?v=MMxFDaIOHsE&amp;list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2&amp;ab_channel=TechWithTim.  This is a machine learning project using pygame to build the flappy bird environmment and the NEAT algorithm to give the bird object self learning.
